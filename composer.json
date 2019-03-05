@@ -12,7 +12,7 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "AkrAm Khan",
+      "name": "AkrAm",
       "email": "akr4m.kh@gmail.com"
     }
   ],
@@ -26,5 +26,6 @@
       "akr4m\\Searchable\\": "src/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
